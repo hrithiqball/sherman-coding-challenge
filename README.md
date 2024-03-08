@@ -26,3 +26,12 @@ This coding challenge is designed to assess how you approach and solve a problem
 - The code should run locally on your machine (doesn't need to be deployed anywhere)
 - Please check the completed challenge in to a git repository and email us the link
 - If you have any questions about the challenge or the requirements please feel free to reach out to the team and we will answer them :)
+
+## Evaluation
+
+![Evaluation](wireframe.jpg)
+![alt text](results.png)
+
+#### Side notes
+
+- I did not include images in the results, but I can add them if needed. (It feels unnecessary for this case because you already provided the country code for the image)
